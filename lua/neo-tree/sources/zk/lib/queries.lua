@@ -25,7 +25,7 @@ M.flimsy = {
 	desc = "Filmsy",
 	input = function(_, _, cb)
 		cb({
-			desc = "Filmsy",
+			desc = "Flimsy",
 			query = {
 				sort = { "word-count" },
 				limit = 20,
